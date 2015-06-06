@@ -10,3 +10,7 @@ puts pessoa[:nome]
 puts pessoa[:email]
 puts pessoa[:site]
 puts pessoa
+
+#questao 14 - exercicio 2
+5.times {numro <<gets.chomp.to_f}
+somatoria = numeros.reduce(:+)
