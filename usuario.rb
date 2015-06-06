@@ -12,13 +12,15 @@ class Usuario
 	#def email
 	#	@email
 	#end
-	def initialize(nome,email,site)
-		@nome = nome
-		@email = email
-		@site = site	
-	end
+	# def initialize(nome,email,site)
+	# 	@nome = nome
+	# 	@email = email
+	# 	@site = site	
+	# end
+	
 end
-usuario = Usuario.new("hilde","hildebrandosegundo@gmail.com","renatofilho.me")
+usuario = 
+# usuario = Usuario.new("hilde","hildebrandosegundo@gmail.com","renatofilho.me")
 #usuario.nome="hilde"
 #usuario.email="hildebrandosegundo@gmail.com"
 #usuario.site = "renatofilho.me"
